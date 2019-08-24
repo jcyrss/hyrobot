@@ -1,0 +1,18 @@
+# Logs
+output.xml
+log.html
+report.html
+
+# files in cases_gen are created dynamically
+cases_gen/
+
+.idea
+.project
+.pydevproject
+.vscode
+*.py[cod]
+
+
+*.bak
+*.log*
+log/
