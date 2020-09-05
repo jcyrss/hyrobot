@@ -2,9 +2,14 @@
 output.xml
 log.html
 report.html
+Py2Robot.spec
 
 # files in cases_gen are created dynamically
 cases_gen/
+
+__pycache__/
+
+bin/
 
 .idea
 .project
@@ -15,4 +20,8 @@ cases_gen/
 
 *.bak
 *.log*
+*.c
 log/
+build/
+buildcpython/run.py
+buildcpython/run/

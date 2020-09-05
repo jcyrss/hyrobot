@@ -1,0 +1,1 @@
+robot --pythonpath .  %* cases
